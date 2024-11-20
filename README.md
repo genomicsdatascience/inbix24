@@ -1,4 +1,4 @@
-# inbix24
+# inbix24 [https://sites.google.com/view/inbixadnat-2024bhu/home]
 ## POSTER:   Integrating Log-Affine Gap Penalty and Superinformation in Big Data Genetic Code Analysis: A Comprehensive Approach to Codon Usage Bias, Entropy, and Evolutionary Genomics
 
 ### AUTHOR: Praharshit Sharma* 
