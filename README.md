@@ -1,2 +1,13 @@
 # inbix24
-POSTER:   Integrating Log-Affine Gap Penalty and Superinformation in Big Data Genetic Code Analysis: A Comprehensive Approach to Codon Usage Bias, Entropy, and Evolutionary Genomics
+## POSTER:   Integrating Log-Affine Gap Penalty and Superinformation in Big Data Genetic Code Analysis: A Comprehensive Approach to Codon Usage Bias, Entropy, and Evolutionary Genomics
+
+### AUTHOR: Praharshit Sharma* 
+### *Member, IEEE Information Theory Society ( https://www.itsoc.org/profile/9590 )
+
++91 96 25 14 80 79 
+
+# *Correspondence: sharmaji@iscb.org
+
+## ABSTRACT
+
+In this Seminal work, the concept of "CODOME" akin to Genome, Proteome, Metabolome and other such -Omes is ideated as the Exact 1-1, non-Redundant Bijection of Nearest-Nepit-Neighborhood Universal Genomic Mutation Space to Exhasustive Point Accepted aMino-acid (PAM) mutation space wherein a Minimal Hamming Distance of 3 between Any 2-peptide sequences drawn at Random from (20^20) combinations = PAM(1) with a Sequence Similarity Cut-off of 85% on the basis of Perfect Computational Equivalence of ~(10^26) Rule Cardinalities pertaining to Binary-TO-Quaternary-TO-Decimal-TO-Vigesimal encoding systems harnessing the Enumeration of the HyperProetoGenome (F1000-Research, Praharshit Sharma,2016). Interestingly, the "Superinformation", defined as Entropy of Entropy of such a Universal Genetic Coding Architecture is deduced to correspond to Origin of Translation as it approaches the value of Napier's constant, e= 2.718281828... which remarkably happens to corroborate with Important Tri-square test Statistics corresponding to  TCBShE (Triplet Codon Block Shannon Entropy) function considering the same as a fundamental yardstick with which to compute Codon Usage Bias taking into account GC-content datasets pertaining to 15 million Transcripts across 1118 Species grouped by 5 major Taxonomic Clades: Fungi, Metazoa, Plants, Protists and Vertebrae respectively. At the outset, some Phenomenal Numerical correlations to "Rig-Vedic Observations" within this Specific Context are also discussed this being an August Conference presided by Archaeological Survey of India. Moreover, the subtle inter-relation of above Approach to Innate Immunomics employing KLD ( Kulbback-Leibler Divergence) and Protein-contact maps as for instance used in AlphaFold2 is derived by a Tensor Product, culminating into BLASTX-INDEL-Power-law based Characterization of Log Affine Gap Penalty Scores, also justifying Chargaff's Second Parity Rule on the basis of Generic Trigonometric-compositional data analysis of Sequences. The SARS-nCOV2 Coronavirus Genome is used as a Reference Sequence in demonstrating this Rigorous Analysis. An inference from NC_045512.2 Length= 29903-bp = Product of 2 Distinct Primes the same being 17 and 1759, thereby Postulating this AI/ML-free Superinformation is in fact Computationally irreducible.
